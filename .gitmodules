@@ -1,0 +1,3 @@
+[submodule "clone"]
+	path = clone
+	url = https://github.com/pdrake2003/myfirstgit-test.github.io.git
